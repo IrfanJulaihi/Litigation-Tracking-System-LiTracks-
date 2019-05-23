@@ -1,0 +1,19 @@
+@charset "utf-8";
+.tableDesign {
+	background-color: #FFF;
+	overflow: scroll;
+	border-left-width: thin;
+	border-top-color: #030;
+	border-right-color: #030;
+	color: #000;
+	table-layout: fixed;
+	height: auto;
+	resize: horizontal;
+	text-align: center;
+	width: auto;
+	font-size: 14px;
+
+
+
+
+}

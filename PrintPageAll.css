@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+td{font-size:12px;
+
+	
+}
+
+
+#buttonback, #buttonadd, #buttonprint, #button, #button2, #buttonfind, #buttonfind1, #buttonfind2, #button3, 
+#buttonfind3, #button4, #button, #jumpMenu,#id1,#id2,
+#image1,#li1,#l2,#Category,#Modify,#back,#PrintTitle
+{
+display:none;	
+
+}
+@media only print
+{
+
+    body * {  	
+		
+
+
+} !important; }
+    body:after { content: ;}
+}

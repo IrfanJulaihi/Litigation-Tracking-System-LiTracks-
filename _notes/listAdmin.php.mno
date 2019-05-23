@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_listAdmin" value="name:ID;datatype:int,name:username;datatype:string,name:password;datatype:string,name:FirstName;datatype:blob,name:LastName;datatype:blob,name:email;datatype:blob,name:AccessLevel;datatype:int,name:Division;datatype:string,name:DateRegister;datatype:datetime" />
+</info>
